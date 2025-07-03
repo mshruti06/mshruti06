@@ -1,6 +1,4 @@
  ![download](https://github.com/user-attachments/assets/173d3eac-2a85-4a3b-9719-c25018085975)
-
-
 - 👋 Hi, I’m **Shruti Meher**
 - 📚 I’m currently **Senior I.S Student**
 - 👀 I’m interested in **UX designing**
