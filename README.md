@@ -1,12 +1,13 @@
  ![download](https://github.com/user-attachments/assets/173d3eac-2a85-4a3b-9719-c25018085975)
 - 👋 Hi, I’m **Shruti Meher**
-- 📚 I’m currently **Senior I.S Student**
-- 👀 I’m interested in **UX designing**
-- 🌱 I’m currently learning **UXD, M.L. and A.I.**
-- 💞️ I’m looking to collaborate on **UXD projects**
-- 💬 Ask me about **Design, Prototyping, or Creating PPT's**
+- 📚 **HCI Research Assistant** (Rider University) & **UX Designer @ Univirture Inc.**
+- 👀 I’m passionate about **Human-AI Interaction** & **AI-driven UX** **ML**
+- 🌱 I’m currently exploring **Generative AI ethics**, **Agentic UX**, & **AI-HCI research**
+- 💞️ I’m looking to collaborate on **AI + UX projects** & **Human-Centered AI**
+- 💬 Ask me about **AI prompt engineering**, **HCI research methods**, **ICIS publications**
 - 📫 How to reach me **shrumeher25@gmail.com**
-- ⚡ Fun fact: I love to **Reading and Travel**
+- ⚡ Fun fact: **Published ICIS 2025 paper** on AI courtesy with Dr. Jia Shen
+
 
 <!---
 mshruti06/mshruti06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
