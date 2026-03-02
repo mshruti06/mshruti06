@@ -1,6 +1,6 @@
  ![download](https://github.com/user-attachments/assets/173d3eac-2a85-4a3b-9719-c25018085975)
 - 👋 Hi, I’m **Shruti Meher**
-- 📚 **HCI Research Assistant** (Rider University) & **UX Designer @ Univirture Inc.**
+- 📚 **HCI Research Assistant** & **UX Designer @ Univirture Inc.**
 - 👀 I’m passionate about **Human-AI Interaction** & **AI-driven UX** **ML**
 - 🌱 I’m currently exploring **Generative AI ethics**, **Agentic UX**, & **AI-HCI research**
 - 💞️ I’m looking to collaborate on **AI + UX projects** & **Human-Centered AI**
