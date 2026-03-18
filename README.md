@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on **AI + UX projects** & **Human-Centered AI**
 - 💬 Ask me about **AI prompt engineering**, **HCI research methods**, **ICIS publications**
 - 📫 How to reach me **shrumeher25@gmail.com**
-- ⚡ Fun fact: **Published ICIS 2025 paper** on AI courtesy with Dr. Jia Shen
+- ⚡ Fun fact: **Published ICIS 2025 paper** on AI courtesy
 
 
 <!---
